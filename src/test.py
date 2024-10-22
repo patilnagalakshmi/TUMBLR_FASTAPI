@@ -27,7 +27,7 @@ def test_create_post(mocker):
                 }
     mock_post.return_value = mock_response
     response = client.post("/create",
-                           params={"type":"text","title": "Test Title", "body": "Test Body"})
+                           params={"title": "Test Title", "body": "Test Body"})
     assert response.status_code == 200
 def test_get_posts(mocker):
     '''Test get posts route'''

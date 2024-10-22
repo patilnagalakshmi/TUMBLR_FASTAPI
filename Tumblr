@@ -1,0 +1,71 @@
+2024-10-21 22:10:37,373 - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.tumblr.com/v2/blog/tasks123/post/delete?id=764965724909436900-__TUMBLR__
+2024-10-21 22:14:16,000 - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.tumblr.com/v2/blog/tasks123/post/delete?id=764965724909436900-__TUMBLR__
+2024-10-21 22:20:38,009 - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.tumblr.com/v2/blog/tasks123/post/delete-__TUMBLR__
+2024-10-21 22:32:18,093 - ERROR - HTTP error occurred: 404 Client Error: Not Found for url: https://api.tumblr.com/v2/blog/tasks123/post/delete-__TUMBLR__
+2024-10-21 22:36:45,220 - INFO - Request URL: https://api.tumblr.com/v2/blog/tasks123/post/delete-__TUMBLR__
+2024-10-21 22:36:45,223 - INFO - Post ID: 764967760238362600-__TUMBLR__
+2024-10-21 22:36:45,726 - ERROR - HTTP error occurred: 404 Client Error: Not Found for url: https://api.tumblr.com/v2/blog/tasks123/post/delete-__TUMBLR__
+2024-10-21 22:36:45,726 - ERROR - Response body: {"meta":{"status":404,"msg":"Not Found"},"errors":[{"title":"Not Found","code":0,"detail":"Got an error. Try again."}],"response":[]}-__TUMBLR__
+2024-10-21 22:53:11,398 - ERROR - Failed to delete post: 404-__TUMBLR__
+2024-10-21 22:53:11,402 - ERROR - Exception occurred: 404: Failed to delete a post-__TUMBLR__
+2024-10-21 22:57:00,429 - INFO - Post deleted successfully!-__TUMBLR__
+2024-10-21 22:58:18,403 - ERROR - Failed to delete post: 404, Response: {"meta":{"status":404,"msg":"Not Found"},"errors":[{"title":"Not Found","code":0,"detail":"Hit a snag. Try again."}],"response":[]}-__TUMBLR__
+2024-10-21 22:58:49,871 - INFO - Post deleted successfully!-__TUMBLR__
+2024-10-22 10:26:45,765 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:30:09,239 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:30:09,275 - INFO - Post data stored successfully in the database-__TUMBLR__
+2024-10-22 10:30:09,293 - INFO - Post data written successfully to CSV-__TUMBLR__
+2024-10-22 10:39:21,483 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:39:21,511 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:39:21,527 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:41:08,556 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:41:09,281 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:41:09,294 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:41:09,307 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:46:35,202 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:46:35,224 - INFO - Post data stored successfully in the database-__TUMBLR__
+2024-10-22 10:46:35,237 - INFO - Post data written successfully to CSV-__TUMBLR__
+2024-10-22 10:46:35,951 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:46:35,967 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:46:35,985 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:47:07,969 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:47:09,227 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:47:09,246 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:47:09,262 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:48:05,547 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:48:05,561 - INFO - Post data stored successfully in the database-__TUMBLR__
+2024-10-22 10:48:05,572 - INFO - Post data written successfully to CSV-__TUMBLR__
+2024-10-22 10:48:06,273 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:48:06,294 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:48:06,312 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:49:48,089 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:49:50,064 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:49:50,090 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:49:50,117 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:50:31,637 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:50:31,655 - INFO - Post data stored successfully in the database-__TUMBLR__
+2024-10-22 10:50:31,669 - INFO - Post data written successfully to CSV-__TUMBLR__
+2024-10-22 10:50:32,387 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:50:32,408 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:50:32,431 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:51:15,785 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:51:15,806 - INFO - Post data stored successfully in the database-__TUMBLR__
+2024-10-22 10:51:15,820 - INFO - Post data written successfully to CSV-__TUMBLR__
+2024-10-22 10:51:15,849 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:51:15,881 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:51:15,911 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:53:40,158 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:53:42,411 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:53:42,434 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:53:42,454 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:54:26,454 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:54:28,367 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:54:28,387 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:54:28,408 - INFO - The post deleted successfully-__TUMBLR__
+2024-10-22 10:56:19,389 - INFO - Post Created Successfully-__TUMBLR__
+2024-10-22 10:56:19,408 - INFO - Post data stored successfully in the database-__TUMBLR__
+2024-10-22 10:56:19,424 - INFO - Post data written successfully to CSV-__TUMBLR__
+2024-10-22 10:56:19,454 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:56:19,490 - INFO - Posts are retrieved successfully-__TUMBLR__
+2024-10-22 10:56:19,526 - INFO - The post deleted successfully-__TUMBLR__
+

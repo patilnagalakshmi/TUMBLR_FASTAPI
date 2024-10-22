@@ -1,0 +1,11 @@
+sqlalchemy
+pydantic
+pydantic-settings
+requests
+requests_oauthlib
+mysql-connector-pytho
+Fastapi
+uvicorn
+httpx
+pytest-mock
+pylint
